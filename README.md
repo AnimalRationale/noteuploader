@@ -7,7 +7,7 @@
  
 
 ## Screenshots
-![Example notes](http://appnode.pl/screenshots/Blogtrotter/Bt-Blog.jpg)
+![Example note](http://appnode.pl/screenshots/Blogtrotter/Bt-Blog.jpg)
 
 
 
